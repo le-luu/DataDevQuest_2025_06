@@ -1,0 +1,4 @@
+tabpy
+pandas
+requests
+duckdb
