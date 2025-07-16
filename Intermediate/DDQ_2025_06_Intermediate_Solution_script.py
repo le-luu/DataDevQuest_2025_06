@@ -3,7 +3,7 @@ import json
 import pandas as pd
 import math
 
-key = '276eecc9-026b-4519-b031-91953b089386'
+key = 'YOUR_API_KEY'
 host = 'jooble.org'
 pages = 5  # Number of pages to extract
 jobs = []  # Initialize job list
