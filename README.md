@@ -28,6 +28,7 @@ Link to the Beginner Challenge: https://datadevquest.com/ddq2025-06-tableau-tabl
 **Part 2:** Create a Tableau Dashboard
 
 **Output**
+
 ![image](https://github.com/le-luu/DataDevQuest_2025_06/blob/main/img/DDQ_2025_06_Beginner_Solution_Script_img.png)
 
 The Python script to apply in the Table Extension in Tableau Desktop. After setting the API key, number of pages, and initialize the jobs list. Iterate to each page to fetch the data (by default, each page shows 30 records), parse JSON. Then, convert the id data type to string and extract the city and state from the location field. To build the dashboard later, I need to build the U.S. map, so I added 50 U.S. states to join them with the data from API. I also test the data by looking at the response status, number of pages can fetch, number of records before/after removing duplicates.
@@ -53,6 +54,7 @@ Link to the Intermediate Challenge: https://datadevquest.com/ddq2025-06-tableau-
 **Part 2:** Create a Tableau Dashboard
 
 **Output**
+
 ![image](https://github.com/le-luu/DataDevQuest_2025_06/blob/main/img/DDQ_2025_06_Intermediate_Solution_Script_img.png)
 
 The Python script to apply in the Table Extension in Tableau Desktop. The Python code is mostly same as the Beginner solution above. The difference is the keyword and location at line 21 and 22. Now, those parameters are dynamic. It will get the input from the user via the parameters in Tableau Desktop. 
