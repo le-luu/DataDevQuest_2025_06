@@ -14,7 +14,7 @@ Paula Muñoz
 - Fetch live job data based on the user's input in parameters
 
 ### Solution Video
-[![DDQ_2025_06](https://img.youtube.com/vi/8nIG28o87jog2jjG/0.jpg)](https://www.youtube.com/watch?v=8nIG28o87jog2jjG)
+[![DDQ_2025_06](https://img.youtube.com/vi/XnwSVBBIcHU/0.jpg)](https://www.youtube.com/watch?v=XnwSVBBIcHU)
 
 ### Beginner Challenge
 Link to the Beginner Challenge: https://datadevquest.com/ddq2025-06-tableau-table-extensions-job-search-api-beginner/
