@@ -86,7 +86,6 @@ The dashboard for Intermediate challenge. The difference here is the map. It sho
     ```
     It may takes a few seconds to install all packages:
     - pandas
-    - requests
     - tabpy
     - duckdb
 - To run connect to the duckdb database, you need to download and copy the JAR file to your local computer. Check this docs: https://duckdb.org/docs/stable/guides/data_viewers/tableau.html
