@@ -1,4 +1,3 @@
 tabpy
 pandas
-requests
 duckdb
